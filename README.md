@@ -1,5 +1,5 @@
 # RI Modified
-This is modified verisin of rim: https://github.com/zwt233/RIM. I worked on this paper (https://arxiv.org/abs/2110.14854) in the statistical learning course seminar. <strong> In the original source code, they just simulated RIM-GCN, in this source code I also write code for RIM-LP </strong>. in addition, I write descriptions and comments for better user understanding. The project has received a full score.
+This is modified verisin of rim: https://github.com/zwt233/RIM. I worked on this paper (https://arxiv.org/abs/2110.14854) in the statistical learning course seminar. <strong> In the original source code, they just simulated RIM-GCN, in this source code I also provide experiments for RIM-LP </strong>. in addition, I write descriptions and comments for better user understanding. The project has received a full score.
 
 
 ## My term Paper Abstract:
